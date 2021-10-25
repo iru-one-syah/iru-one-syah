@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Irwan
-- 👀 I’m interested in bone conduction, binaural hearing and signal processing
+- 👀 I’m interested in 3D printing, bone conduction, binaural hearing and signal processing
 - 🌱 I’m currently learning data science
 - 📫 How to reach me irwansyah@ieee.org
 
